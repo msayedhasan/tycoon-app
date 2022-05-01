@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556397186320",
+    "project_id": "tycoon-e14e8",
+    "storage_bucket": "tycoon-e14e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556397186320:android:35131b7cbb07a92649e995",
+        "android_client_info": {
+          "package_name": "com.trade.tycoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556397186320-tqnkpiv388msveku11bsjpqc4qaik344.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trade.tycoon",
+            "certificate_hash": "3e5d3e363fe403ad1cd8253810ed5656229779c9"
+          }
+        },
+        {
+          "client_id": "556397186320-vpiucct98leug512llcred76q8bbigo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trade.tycoon",
+            "certificate_hash": "d6795f2d9e7cda34ed457490fa1e233542199e0a"
+          }
+        },
+        {
+          "client_id": "556397186320-7278ai46od0jhgbqdpb3ni8ejkkvo4a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86n1ugnXmrfN8VMcTJpplK3LUzbrUH-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556397186320-7278ai46od0jhgbqdpb3ni8ejkkvo4a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
